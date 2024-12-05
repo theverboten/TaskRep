@@ -1,0 +1,1 @@
+Run with "dotnet run" command in "API" folder and "npm run serve" in "todo" folder on "http://localhost:8080/"
